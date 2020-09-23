@@ -14,7 +14,7 @@ var cordova = require('./helper/cordova'),
  * Specification.
  */
 
-describe('phonegap-plugin-barcodescanner', function () {
+describe('samuel-plugin-barcodescanner', function () {
     beforeEach(function () {
         execWin = jasmine.createSpy();
         execSpy = spyOn(cordova.required, 'cordova/exec').andCallFake(execWin);
