@@ -1,6 +1,6 @@
 {
   "name": "samuel-plugin-barcodescanner",
-  "version": "8.2",
+  "version": "8.2.0",
   "description": "You can use the BarcodeScanner plugin to scan different types of barcodes (using the device's camera) and get the metadata encoded in them for processing within your application.",
   "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "cordova": {
